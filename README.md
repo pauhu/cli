@@ -1,4 +1,4 @@
-# Pauhu client
+# Pauhu Client
 
 Ask Pauhu sourced questions from your terminal.
 
@@ -8,3 +8,5 @@ Ask Pauhu sourced questions from your terminal.
 - MCP clients: [server.json](server.json) (remote, header `Authorization: Bearer <key>`).
 
 Status: proposed. Licence: Apache-2.0.
+
+Copyright © 2026 Pauhu Ltd. Written and maintained by Pauhu Ltd.
